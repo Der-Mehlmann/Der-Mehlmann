@@ -20,5 +20,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Der-Mehlmann&theme=github_dark&hide_border=true&show_icons=true&count_private=true)  
 ![](https://nirzak-streak-stats.vercel.app/?user=Der-Mehlmann&theme=github-dark&hide_border=true)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Der-Mehlmann&theme=github_dark&hide_border=true&layout=compact)
+### 🌐 Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/niklas-mehlis-1033b6364/)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
